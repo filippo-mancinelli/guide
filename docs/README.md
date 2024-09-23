@@ -14,3 +14,6 @@ npm i docsify-cli -g
 ```
 docsify serve docs
 ```
+
+##### 3. Modifica/Aggiungi .md files
+segui le indicazioni su [docsify](https://docsify.js.org/#/?id=docsify)
