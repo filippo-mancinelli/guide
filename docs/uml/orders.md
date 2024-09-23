@@ -1,6 +1,6 @@
 # Sequence diagram plant uml
 
-<img src="../assets/orders.png" alt="carl">
+<img src="./assets/orders.png" alt="carl">
 
 @startuml
 title Sequence Diagram: Order Process
