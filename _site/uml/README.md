@@ -1,0 +1,1 @@
+In questa sezione si trovano vari diagrammi per capire robe sul teleshit
