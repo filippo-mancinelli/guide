@@ -1,6 +1,8 @@
 - [Home](/)
 - [Guide Utili](/guide/README.md)
 -- [Autenticazione](/guide/auth.md)
+-- [Bot Telegram](/guide/bots.md)
+-- [Testare il frontend da TG-miniapp del bot localmente](/guide/local-test.md)
 
 - [GPT shit](/gpt/README.md)
 -- [Ionic](/gpt/ionic.md)
@@ -10,4 +12,5 @@
 -- [Shit Generica Personale](/gpt/shit.md)
 
 - [UML](/uml/README.md)
--- [Orders](/uml/orders.md)
+-- [Ordini](/uml/orders.md)
+-- [Architettura bot](/uml/bots.md)

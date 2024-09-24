@@ -17,3 +17,4 @@ docsify serve docs
 
 ##### 3. Modifica/Aggiungi .md files
 segui le indicazioni su [docsify](https://docsify.js.org/#/?id=docsify)
+Se non sei capace a scrivere in markdown usa questo editor facile con pulsanti: [markdown editor](https://pandao.github.io/editor.md/en.html) 
