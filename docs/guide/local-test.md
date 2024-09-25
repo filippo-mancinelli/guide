@@ -18,24 +18,12 @@ Usa localtunnel sulla porta 8100 usata dal frontend
 `lt --port 8100`
 Poi copia l'URL generato
 
-#### 6. Imposta l'URL nel bot
-Torna dal BotFather e imposta l'URL copiato in due posti:
-###### 1 
-- /mybots
-- seleziona il tuo bot
-- Bot Settings
-- Configure Mini App 
-- Edit Mini App URL
-- Pasta
+#### 6. Crea una nuova mini-app
+ fai **/newapp** e segui le indicazioni per creare la miniapp. Incolla l'url copiato prima quando richiesto 
 
-###### 2
-- /mybots
-- seleziona il tuo bot
-- Bot Settings
-- Menu Button 
-- Edit Menu Button URL
-- Pasta
+#### 7. Inserisci/Modifica campo url a DB
+colonna mini_app_url, metti il link diretto che ti ha dato il botfather, assicurati che abbia lo short name dell'app alla fine, esempio: t.me....../myapp
 
-#### 7. Prova la miniapp local
+#### 8. Prova la miniapp local
 Vai sul tuo bot di test e lancia la miniapp dal menu button. puoi aprire l'ispeziona elemento col tasto dentro e verificare nei log che l'app riconosca che stia effettivamente runnando dall'ambiente di telegram e non da un browser qualsiasi.
 
